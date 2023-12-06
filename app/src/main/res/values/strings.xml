@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android Compose Practice</string>
+    <string name="normal_text">Normal text</string>
+    <string name="bold_text">Bold text</string>
+    <string name="italic_text">Italic text</string>
+    <string name="bold_italic_text">Bold Italic text</string>
 </resources>
