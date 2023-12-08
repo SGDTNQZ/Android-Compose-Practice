@@ -4,4 +4,5 @@
     <string name="bold_text">Bold text</string>
     <string name="italic_text">Italic text</string>
     <string name="bold_italic_text">Bold Italic text</string>
+    <string name="hello">Hello World!</string>
 </resources>
